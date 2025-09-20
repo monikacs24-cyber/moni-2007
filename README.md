@@ -257,7 +257,7 @@
   <h2>Contact</h2>
   <p>Email: <a href="monika@kascsahy.ac.in"monika@kascsahy.ac.in</a></p>
   <p>Phone: +91-8825546526</p>
-  <p>Location: A1hani, Gobi, India</p>
+  <p>Location: northpet, sathy, India</p>
   <div style="margin-top: 1rem;">
  <a href="https://linkedin.com/in/monika" target="_blank">LinkedIn</a> |
  <a href="https://github.com/monika" target="_blank">GitHub</a> |
