@@ -221,11 +221,8 @@
 
 <section id="about" class="active">
   <h2>About Me</h2>
-  <p>I'm a <b>Assistant Professor</b> in the Department of CA and IT at KASC specializes in software development and data structures.<br>I has over 15 years of teaching experience and believes in creating a dynamic learning environment that encourages problem-solving and hands-on coding practice.</p>
-</section>
-
-<section id="education">
-  <h2>Education</h2>
+  <p>I'm a <b>student</b> in the Department of Cs and I 
+	  
   <p>B.Sc Mathematics in Madras University <br>MCA in Anna University<br>B.Ed in TTEducation University</p>
 </section>
 
@@ -258,7 +255,7 @@
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email: <a href="monika@kascsahy.ac.in">bhuvaneswaril@kascsahy.ac.in</a></p>
+  <p>Email: <a href="monika@kascsahy.ac.in"monika@kascsahy.ac.in</a></p>
   <p>Phone: +91-8825546526</p>
   <p>Location: A1hani, Gobi, India</p>
   <div style="margin-top: 1rem;">
@@ -297,7 +294,7 @@
 </section>
 
 <footer>
-  <p>&copy; 2025 Mrs.L.Bhuvaneswari : All rights reserved.</p>
+  <p>&copy; 2025 monika: All rights reserved.</p>
 </footer>
 
 <div class="modal" id="passwordModal">
